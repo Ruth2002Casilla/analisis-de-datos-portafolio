@@ -23,7 +23,7 @@ Aquí encontrarás mis proyectos organizados por herramientas y áreas de aprend
 
 | Área | Descripción | Repositorio |
 |---|---|---|
-| Excel | Ejercicios, prácticas y proyectos de análisis con Excel. | https://github.com/Ruth2002Casilla/excel-analisis-de-datos.git |
+| Excel | Ejercicios, prácticas y proyectos de análisis con Excel. | [Ver repositorio](https://github.com/Ruth2002Casilla/excel-analisis-de-datos) |
 | Power BI | Análisis de datos y visualización de indicadores. | Próximamente |
 | SQL | Consultas y análisis de bases de datos. | Próximamente |
 | Python | Procesamiento y análisis de datos. | Próximamente |
